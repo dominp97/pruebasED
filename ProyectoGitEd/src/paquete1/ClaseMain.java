@@ -7,6 +7,7 @@ public class ClaseMain {
 		for(int j = 0;j<5;j++) {
 			i+=j;
 			i++;
+			i++;
 		}
 		System.out.println(i);
 
